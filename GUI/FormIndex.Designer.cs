@@ -194,7 +194,7 @@
             Controls.Add(pn_Body);
             Controls.Add(flowLayoutPanel1);
             Controls.Add(panel1);
-            FormBorderStyle = FormBorderStyle.FixedSingle;
+            FormBorderStyle = FormBorderStyle.None;
             IsMdiContainer = true;
             Name = "FormIndex";
             Text = "Form1";
